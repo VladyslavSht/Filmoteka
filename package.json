@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://kravamax.github.io/filmoteka",
+  "homepage": "https://VladyslavSht.github.io/Filmoteka-JS",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka/"
+    "build": "parcel build src/*.html --public-url /Filmoteka-JS/"
   },
   "repository": {
     "type": "git",
